@@ -61,6 +61,7 @@ void loop() {
   }
 
   else {
+    // Light up all LED's.
     digitalWrite(LEDu,HIGH);
     digitalWrite(LEDd,HIGH);
     digitalWrite(LEDl,HIGH);
